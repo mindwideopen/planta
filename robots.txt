@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://mindwideopen.github.io/planta
+Sitemap: https://mindwideopen.github.io/planta/sitemap.xml

@@ -1,0 +1,6 @@
+:HL["/planta/_next/static/chunks/0r-7at53z2x40.css","style"]
+:HL["/planta/_next/static/media/71fbf9c08529c2a5-s.p.2fpqrm51ez0iq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/planta/_next/static/media/8c2eb9ceedecfc8e-s.p.23aeddxv5enbo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/planta/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/planta/_next/static/media/d3fe2f289711ac3f-s.p.1l2zhvq5eocqf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"catalog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"srezannye-tsvety","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"sbI99hTjMDkIobnbaEKzP"}
